@@ -9,7 +9,7 @@ Pod::Spec.new do |s|
   s.author       = package['author']
   
   s.platform     = :ios, "11.0"
-  s.source       = { :git => "https://github.com/dorislynch/MonkeyTools.git", :tag => "master" }
+  s.source       = { :git => "https://github.com/dorislynch/DragonTotem.git", :tag => "master" }
 
   s.source_files = "ios/*.{h,m}"
   s.requires_arc = true

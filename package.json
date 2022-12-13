@@ -3,7 +3,7 @@
   "name": "react-native-dragon-totem",
   "version": "1.0.0",
   "description": "this is designed for dragon totem showing",
-          "homepage": "https://github.com/dorislynch/MonkeyTools",
+          "homepage": "https://github.com/dorislynch/DragonTotem",
           "main": "index.js",
           "scripts": {
             "test": "echo \"Error: no test specified\" && exit 1"
@@ -24,7 +24,7 @@
           "license": "MIT",
           "repository": {
             "type": "git",
-            "url": "https://github.com/dorislynch/MonkeyTools.git"
+            "url": "https://github.com/dorislynch/DragonTotem.git"
           },
           "peerDependencies": {
             "react": "^18.1.0",
