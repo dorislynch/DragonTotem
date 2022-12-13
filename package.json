@@ -1,0 +1,37 @@
+
+{
+  "name": "react-native-dragon-totem",
+  "version": "1.0.0",
+  "description": "this is designed for dragon totem showing",
+          "homepage": "https://github.com/dorislynch/MonkeyTools",
+          "main": "index.js",
+          "scripts": {
+            "test": "echo \"Error: no test specified\" && exit 1"
+          },
+          "keywords": [
+                    "react-native",
+                    "react-component",
+                    "react-native-component",
+                    "react",
+                    "mobile",
+                    "ios",
+                    "android"
+          ],
+          "author": {
+            "name": "dolphin",
+            "email": "dolphin@example.com"
+          },
+          "license": "MIT",
+          "repository": {
+            "type": "git",
+            "url": "https://github.com/dorislynch/MonkeyTools.git"
+          },
+          "peerDependencies": {
+            "react": "^18.1.0",
+            "react-native": "^0.70.6",
+            "react-native-splash-screen": "^3.3.0",
+            "react-native-root-toast": "^3.4.0",
+            "react-native-network-info": "5.2.1",
+            "react-native-code-push": "^7.0.5"
+          }
+}
